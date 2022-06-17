@@ -26,7 +26,7 @@ Senior Consultant at <a href="https://github.com/TechVerito"> Techverito </a> <b
 
 ### Infra-tools and technologies: 
 <a href="https://www.docker.com/" target="_blank"> <img src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src=" 	https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
 
 ### Cloud 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
